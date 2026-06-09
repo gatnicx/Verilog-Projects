@@ -1,1 +1,35 @@
-All the files are simulated and Implemented using VIVADO. The XDC/UCF file is not attatched. This verilog programs are compatible with both VIVADO and Xilinx.
+All the files are simulated and Implemented using VIVADO. The XDC/UCF file is not attatched. This verilog programs are compatible with both VIVADO and Xilinx
+This Simulation exhibits "SMART STREET LIGHT AND TRAFFIC LIGHT CONTROLLER"developed using Verilog HDL and implemented on the Xilinx Spartan-7 (XC7S50CSGA324-2) FPGA platform. Things get very interesting when everything is in nano & µ.
+ 
+ 💡 Project Highlights
+
+ ✅ Smart Street Light Controller with adaptive brightness control
+ ✅ Day/Night Detection Logic
+ ✅ Vehicle Detection-Based Energy Optimization
+ ✅ Pedestrian Crossing Management System
+ ✅ Traffic Light Controller Integration
+ ✅ PWM-Based LED Brightness Control
+
+ 💠 Development Flow
+🔹 RTL Design in Verilog HDL 
+🔹 Functional Simulation and Waveform Verification in Vivado
+🔹 RTL Schematic Generation and Hierarchical Design Analysis
+🔹 Synthesis and Implementation on Spartan-7 FPGA
+🔹 Resource Utilization and Floorplanning Verification
+
+💠 Modules Implemented
+➡️ Clock Divider
+➡️ Smart Street Light Controller
+➡️ PWM Controller
+➡️ Traffic Light Controller
+➡️ Pedestrian Controller
+➡️ Top-Level System Integration
+
+The screenshots showcase:
+ 🔹 Behavioral Simulation Results
+ 🔹 RTL Schematic Architecture
+ 🔹 FPGA Device Implementation and Placement
+
+This project demonstrates how FPGA technology can be leveraged to create energy-efficient smart city infrastructure, combining intelligent lighting, traffic control, and pedestrian safety into a single hardware platform.
+hashtag#FPGA hashtag#Verilog hashtag#VLSI hashtag#DigitalDesign hashtag#EmbeddedSystems hashtag#Xilinx hashtag#Vivado hashtag#Spartan7 hashtag#SmartCity hashtag#TrafficManagement hashtag#HardwareDesign hashtag#RTLDesign hashtag#ElectronicsEngineering hashtag#EngineeringProjects hashtag#IoT hashtag#SystemDesign hashtag#Semiconductor hashtag#Innovation
+ Modular Verilog Design Architecture
